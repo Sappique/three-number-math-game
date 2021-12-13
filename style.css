@@ -66,6 +66,8 @@ body {
 
 .number-circle {
   background-color: #0074D9;
+  width: 17vh;
+  height: 17vh;
 
   padding: 5%;
   margin-top: 30vh;
