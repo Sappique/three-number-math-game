@@ -62,6 +62,12 @@ body {
   border-width: 5px;
   border-radius: 20px;
   font-size: 5vh;
+
+  user-select: none;
+}
+
+.button:hover {
+  cursor: pointer;
 }
 
 .number-circle {
