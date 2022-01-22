@@ -11,6 +11,12 @@ body {
   align-items: center;
 }
 
+@media (min-device-width: 1024px) {
+  .game-area {
+    height: 100vh;
+  }
+}
+
 .card-area {
 
   display: flex;
