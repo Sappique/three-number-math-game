@@ -28,7 +28,6 @@ function shuffleCards() {
 
 function shuffleCircleNumbers() {
   circleNumbers.sort((a, b) => 0.5 - Math.random());
-  console.log(circleNumbers);
 }
 
 function nextCircleNumber() {
